@@ -1,3 +1,5 @@
 Welcome to os lab
 hello
+making changes in git bash
+
 
